@@ -1,0 +1,2 @@
+# res
+### dimension color fontSize
